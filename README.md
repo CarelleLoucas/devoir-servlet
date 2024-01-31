@@ -5,14 +5,14 @@
 - Apache Tomcat
 
 ## Usage
-- git clone the project
+- Clone the project
 - Copy `devoir-servlet.war` to `webapps` directory in Apache Tomcat
-- In Apache Tomcat, navigate to the `bin` folder and run `startup.sh`
+- In Apache Tomcat, navigate to the `bin` folder and run `startup.bat`
 - Open `index.html` in your browser
 
 
 - Click on the link
-- 
+ 
 ![sevlet1](https://github.com/CarelleLoucas/devoir-servlet/assets/119422070/50fc7188-8b57-41d1-8988-c7c63bc1a3b2)
 
 
